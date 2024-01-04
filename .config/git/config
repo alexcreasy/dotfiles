@@ -3,7 +3,7 @@
 	email = alex@creasy.dev
 	signingkey = 5F5F8A5321FAA88292396C0CB149EBCF27192FF0
 [core]
-	excludesfile = /Users/acreasy/.config/git/ignore
+	excludesfile = ~/.config/git/ignore
 [alias]
 	ignore = "!gi() { curl -sL https://www.gitignore.io/api/$@ ;}; gi"
 [init]
