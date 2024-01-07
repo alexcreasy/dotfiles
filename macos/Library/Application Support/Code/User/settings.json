@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Nord",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "diffEditor.renderSideBySide": false,
+  "files.autoSave": "afterDelay",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "ansible.lightspeed.enabled": true,
+  "ansible.lightspeed.suggestions.enabled": true
+}
